@@ -53,14 +53,12 @@ subtitle = ""
 # International SCD sites
 
 - [Royal Scottish Country Dance Society, Edinburgh](https://www.rscds.org)
-- [Celtic Circle](https://www.celtic-circle.de)
+- [Celtic Circle](http://www.celtic-circle.de/events.html)
 - [Grand Chain](https://www.scottishdance.net)
 - [The Strathspey Server](https://www.strathspey.org)
 - [Kuckucksnest im Spessart](https://www.kuckucksnest.com)
 
 # Dance Links
 
-- [Minicrib](https://www.minicrib.org.uk)
-- [my.strathspey.org](https://my.strathspey.org)
-- [The Dancing Master 1651-1728](https://www.izaak.unh.edu/nhltmd/indexes/dancingmaster)
+- [Scottish Country Dance Database](https://my.strathspey.org/dd/index/)
 - [Scottish Country Dancing Dictionary](https://www.scottish-country-dancing-dictionary.com)
