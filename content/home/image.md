@@ -50,7 +50,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<p>Test<\p>
-
-<DIV style='color:red'>Pollo<\DIV>
