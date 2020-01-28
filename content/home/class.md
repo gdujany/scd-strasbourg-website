@@ -54,11 +54,10 @@ When
 ----
 We meet every Monday evening from 19h30 to 21h30 except during school holidays
 
-**Contact us before the first time you come to check if we are meeting!**
+{{% alert warning %}}
+Contact us before the first time you come to check if we are meeting!
+{{% /alert %}}
 
-<!-- {{% alert warning %}}
-**Contact us before the first time you come to check if we are meeting**
-{{% /alert %}} -->
 
 Where
 ---
