@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-*WARNING: This website is still work in progress, the content may be wrong!*
+{{% alert warning %}}
+This website is still work in progress, the content may be wrong!
+{{% /alert %}}
 
-The Strasbourg Scottish Country Dancers is a bla bla 
+The Strasbourg Scottish Dancing Group is open to anyone who would like to learn this lively and fun style of dancing. Beginners are welcome to join classes every September.  Advanced dancers can join at any point throughout the year and we're always happy to welcome visiting dancers.  We have a mixture of levels, ages and nationalities.  Classes are in English with French explanations if needed. Please [contact us](/#contact) for any further information.

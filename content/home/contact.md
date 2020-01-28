@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-You can contact us by email at <strasbourgscottishdancersNOSPAM@gmail.com> (remove NOSPAM from the email address) and find more informations on our [facebook page](https://www.facebook.com/groups/1924021581215470/about/).
+You can contact us by email at <strasbourgscottishdancersNOSPAM@gmail.com> (remove NOSPAM from the email address) and find more information on our [facebook page](https://www.facebook.com/groups/1924021581215470/about/).

@@ -64,7 +64,7 @@ Where
 ---
 
 > Studio Robbins, Centre Culturel Marcel Marceau
-> 10 rue de Ribeauvillé, Neudorf
+> rue de Ribeauvillé, Neudorf
 > 67100 Strasbourg
 
 {{< load-leaflet >}}
