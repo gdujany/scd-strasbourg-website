@@ -62,7 +62,7 @@ Contact us before the first time you come to check if we are meeting!
 Where
 ---
 
-> Studio Robbins, Centre Culturel Marcel Marceau
+> Studio Robbins, Centre Culturel Marcel Marceau,
 > rue de Ribeauvillé, Neudorf
 > 67100 Strasbourg
 
