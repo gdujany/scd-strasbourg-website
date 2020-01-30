@@ -1,5 +1,7 @@
 # Source code for the Strasbourg Scottish Country Dancers
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92cad28f-9e4e-4f45-9a41-666405c7ef7c/deploy-status)](https://app.netlify.com/sites/scd-strasbourg/deploys)
+
 This repository contains the code of the Strasbourg Scottish Country Dancers website
 https://scd-strasbourg.netlify.com/
 
