@@ -7,7 +7,7 @@ title: Strasbourg social dance 31 October 2020
 #   3 = Card
 view: 3
 
-date: 2020-03-17
+date: 2020-03-14
 
 # Optional header image (relative to `static/img/` folder).
 header:
