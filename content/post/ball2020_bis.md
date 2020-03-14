@@ -14,7 +14,7 @@ header:
   caption: ""
   image: "foto1.jpg"
 
-summary: The Strasbourg Scottish Country Dancers are pleased to invite you to a workshop and social dance on Saturday 14 March ​2020, with Raphaëlle Orgeret, at the Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG.  Music by Philippe and Sandrine Kocian.
+summary: The Strasbourg Scottish Country Dancers are pleased to invite you to a workshop and social dance on Saturday 31 October ​2020, with Patrick Chamoin, at the Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG.  Music by Philippe and Sandrine Kocian.
 ---
 
 The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers** to our workshop and social dance
@@ -28,15 +28,16 @@ The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers
 <!--
 **Programme:** https://my.strathspey.org/dd/list/24684/ and [Download link](../../files/ball2020/Programme-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 
+-->
+
 **Location:** Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG ([detailed instructions on how to get to the venue](https://foyersaintarbogast.jimdofree.com/acc%C3%A8s/))
 
 {{< load-leaflet >}}
 {{< leaflet-simple mapHeight="500px" mapWidth="500px" mapLon="7.719407" mapLat="48.571977" markerLon="7.719407" markerLat="48.571977">}}
 
+<!--
 **Flyer:** [Download link](../../files/ball2020/Flyer-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 
-
-<!--
 **Payment instructions:** [Download link](../../files/ball2020/Payment_instructions-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 -->
 
