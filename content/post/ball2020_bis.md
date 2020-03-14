@@ -1,5 +1,5 @@
 ---
-title: Strasbourg social dance 14 March 2020
+title: Strasbourg social dance 31 October 2020
 
 # View.
 #   1 = List
@@ -7,7 +7,7 @@ title: Strasbourg social dance 14 March 2020
 #   3 = Card
 view: 3
 
-date: 2019-12-07
+date: 2020-03-17
 
 # Optional header image (relative to `static/img/` folder).
 header:
@@ -17,18 +17,15 @@ header:
 summary: The Strasbourg Scottish Country Dancers are pleased to invite you to a workshop and social dance on Saturday 14 March ​2020, with Raphaëlle Orgeret, at the Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG.  Music by Philippe and Sandrine Kocian.
 ---
 
-{{% alert warning %}}
-We regret to inform you that the event has been postponed to the [31 October](/post/ball2020_bis) due to the Cov-19 virus. All participants will be contacted by e-mail and will receive a full refund.
-{{% /alert %}}
-
 The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers** to our workshop and social dance
 
-**Date:** Saturday 14 March ​2020
+**Date:** Saturday 31 October ​2020
 
-**Teacher:** Raphaëlle Orgeret
+**Teacher:** Patrick Chamoin
 
 **Music:** Philippe and Sandrine Kocian
 
+<!--
 **Programme:** https://my.strathspey.org/dd/list/24684/ and [Download link](../../files/ball2020/Programme-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 
 **Location:** Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG ([detailed instructions on how to get to the venue](https://foyersaintarbogast.jimdofree.com/acc%C3%A8s/))
@@ -38,10 +35,12 @@ The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers
 
 **Flyer:** [Download link](../../files/ball2020/Flyer-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 
+
 <!--
 **Payment instructions:** [Download link](../../files/ball2020/Payment_instructions-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 -->
 
+<!--
 **Time table:**
 
 * Hall open from 10am
@@ -58,3 +57,4 @@ The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers
 
 
 For payment instructions and registration please [contact us](/#contact) by 1 March 2020.
+-->
