@@ -25,9 +25,10 @@ The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers
 
 **Music:** Philippe and Sandrine Kocian
 
-<!--
-**Programme:** https://my.strathspey.org/dd/list/24684/ and [Download link](../../files/ball2020/Programme-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 
+**Programme:** https://my.strathspey.org/dd/list/27976/
+<!--
+and [Download link](../../files/ball2020/Programme-Strasbourg_Day_School+Social_Dance_14-03-19.pdf)
 -->
 
 **Location:** Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG ([detailed instructions on how to get to the venue](https://foyersaintarbogast.jimdofree.com/acc%C3%A8s/))

@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% alert warning %}}
+Classes are cancelled until further notice due to the Cov-19 virus.
+{{% /alert %}}
+
 When
 ----
 We meet every Monday evening from 19h30 to 21h30 except during school holidays
