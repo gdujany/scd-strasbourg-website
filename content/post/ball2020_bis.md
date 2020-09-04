@@ -17,6 +17,10 @@ header:
 summary: The Strasbourg Scottish Country Dancers are pleased to invite you to a workshop and social dance on Saturday 31 October ​2020, with Patrick Chamoin, at the Foyer St Arbogast, 10 rue des Merovingiens, 67200 STRASBOURG.  Music by Philippe and Sandrine Kocian.
 ---
 
+{{% alert warning %}}
+We regret to inform you that the event has been cancelled due to the Covid-19 virus. All participants will be contacted by e-mail and will receive a full refund.
+{{% /alert %}}
+
 The Strasbourg Scottish Country Dancers are pleased to invite **advanced dancers** to our workshop and social dance
 
 **Date:** Saturday 31 October ​2020

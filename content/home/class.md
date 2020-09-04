@@ -50,13 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert warning %}}
-Classes are cancelled until further notice due to the Cov-19 virus.
-{{% /alert %}}
-
 When
 ----
-We meet every Monday evening from 19h30 to 21h30 except during school holidays
+We meet every Monday evening from 20h00 to 22h00 except during school holidays
 
 {{% alert warning %}}
 Contact us before the first time you come to check if we are meeting!
@@ -66,12 +62,12 @@ Contact us before the first time you come to check if we are meeting!
 Where
 ---
 
-> Studio Robbins, Centre Culturel Marcel Marceau,
-> rue de Ribeauvillé, Neudorf
-> 67100 Strasbourg
+> Centre chorégraphique de Strasbourg - Annexe Bon Pasteur, Studio Pavlova
+> 12A Boulevard Jean-Sébastien Bach,
+> 67000 Strasbourg
 
 {{< load-leaflet >}}
-{{< leaflet-simple mapHeight="500px" mapWidth="500px" mapLon="7.770681" mapLat="48.564938" markerLon="7.770681" markerLat="48.564938">}}
+{{< leaflet-simple mapHeight="500px" mapWidth="500px" mapLon="7.778784" mapLat="48.587815" markerLon="7.778784" markerLat="48.587815">}}
 
 What should I bring
 -----
