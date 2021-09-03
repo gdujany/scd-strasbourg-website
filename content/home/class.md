@@ -52,7 +52,7 @@ subtitle = ""
 
 When
 ----
-We meet every Monday evening from 20h00 to 22h00 except during school holidays
+We meet every Monday evening from 19h30 to 21h30 except during school holidays
 
 {{% alert warning %}}
 Contact us before the first time you come to check if we are meeting!
