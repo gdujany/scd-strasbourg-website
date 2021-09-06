@@ -62,8 +62,8 @@ Contact us before the first time you come to check if we are meeting!
 Where
 ---
 
-> Studio Pavlova
-> Centre chorégraphique de Strasbourg - Annexe Bon Pasteur
+> Studio Pavlova,
+> Centre chorégraphique de Strasbourg - Annexe Bon Pasteur,
 > 12A Boulevard Jean-Sébastien Bach,
 > 67000 Strasbourg
 
