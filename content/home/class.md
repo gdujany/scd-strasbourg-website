@@ -62,7 +62,8 @@ Contact us before the first time you come to check if we are meeting!
 Where
 ---
 
-> Centre chorégraphique de Strasbourg
+> Studio Pavlova
+> Centre chorégraphique de Strasbourg - Annexe Bon Pasteur
 > 12A Boulevard Jean-Sébastien Bach,
 > 67000 Strasbourg
 
@@ -76,7 +77,7 @@ The only equipment you require is a pair of light, preferably flat, dance shoes 
 Costs
 ----
 The membership fee is 80€ a year, or 30€ per term if you wish to try out the class for 3 months. Insurance is another 20€.
-**The first lesson is free!**
+**The first two lessons are free!**
 
 
 Contacts
