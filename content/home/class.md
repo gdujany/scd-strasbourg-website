@@ -76,7 +76,7 @@ The only equipment you require is a pair of light, preferably flat, dance shoes 
 
 Costs
 ----
-The membership fee is 80€ a year, or 30€ per term if you wish to try out the class for 3 months. Insurance is another 20€.
+The membership fee is 80€ a year, or 30€ per term if you wish to try out the class for 3 months. Insurance is another 25€.
 **The first two lessons are free!**
 
 
