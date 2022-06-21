@@ -7,7 +7,7 @@ title: Introduction to Scottish Country Dancing 10 September 2022
 #   3 = Card
 view: 3
 
-date: 2022-09-10
+date: 2022-06-20
 
 # Optional header image (relative to `static/img/` folder).
 header:
