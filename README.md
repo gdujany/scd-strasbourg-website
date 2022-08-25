@@ -1,3 +1,12 @@
+# Source code for the Strasbourg Scottish Country Dancers
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92cad28f-9e4e-4f45-9a41-666405c7ef7c/deploy-status)](https://app.netlify.com/sites/scd-strasbourg/deploys)
+
+This repository contains the code of the Strasbourg Scottish Country Dancers website https://www.sscdg.org/ (also available at
+https://scd-strasbourg.netlify.com/)
+
+It has been developed from the Academic template (see original readme below)
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
