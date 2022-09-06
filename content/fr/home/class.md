@@ -26,7 +26,7 @@ Quand
 Nous nous retrouvons chaque lundi de 18h00 à 20h00 sauf pendant les vacances scolaires
 
 {{% callout warning %}}
-Contactez-nous avant la première fois que vous venez pour vérifier si nous nous rencontrons !
+Contactez nous avant de venir pour la première fois pour prendre rdv.
 {{% /callout %}}
 
 
@@ -46,7 +46,7 @@ Le seul équipement dont vous avez besoin est une paire de chaussures de danse l
 
 Coût
 ----
-La cotisation est de 80€ par an, ou 30€ par trimestre si vous souhaitez essayer le cours pendant 3 mois. L'assurance coûte encore 25 €.
+La cotisation est de 80€ par an, ou 30€ par trimestre si vous souhaitez découvrir les cours pendant 3 mois. L'assurance coûte encore 25 €.
 **Les deux premiers cours sont gratuits !**
 
 Contacts

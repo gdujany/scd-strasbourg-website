@@ -21,4 +21,4 @@ subtitle = ""
 
 +++
 
- Le Strasbourg Scottish Country Dancers Group est ouvert à tous ceux qui souhaitent s'initier à cette danse vivante et ludique. Les débutants sont invités à rejoindre les cours chaque septembre. Les danseurs avancés peuvent se joindre à tout moment de l'année et nous sommes toujours heureux d'accueillir les danseurs en visite. Nous avons un mélange de niveaux, d'âges et de nationalités. Les cours sont en anglais avec des explications en français si besoin. Veuillez [nous contacter](/#contact) pour toute information complémentaire.
+ Le Strasbourg Scottish Country Dancers Group est ouvert à tous ceux qui souhaitent s'initier à cette danse vivante et ludique. Les débutants sont invités à rejoindre les cours chaque année au mois de septembre. Les danseurs avancés peuvent se joindre au groupe à tout moment de l'année et nous sommes toujours heureux d'accueillir les danseurs en visite. Il y a différents niveau et plusieurs nationalités. Les cours sont en anglais avec des explications en français si besoin. Veuillez [nous contacter](/#contact) pour toute information complémentaire.
