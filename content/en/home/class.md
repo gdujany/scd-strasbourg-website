@@ -23,7 +23,7 @@ subtitle = ""
 
 When
 ----
-We meet every Monday evening from 18h00 to 20h00 except during school holidays
+We meet every Monday evening from 18h00 to 20h00 except during school holidays. Classes will resume the 7th of October.
 
 {{% callout warning %}}
 Contact us before the first time you come to check if we are meeting!

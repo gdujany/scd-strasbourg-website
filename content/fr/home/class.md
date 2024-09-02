@@ -23,7 +23,7 @@ subtitle = ""
 
 Quand
 ----
-Nous nous retrouvons chaque lundi de 18h00 à 20h00 sauf pendant les vacances scolaires
+Nous nous retrouvons chaque lundi de 18h00 à 20h00 sauf pendant les vacances scolaires. Les cours recommenceront le 7 Octobre 2024.
 
 {{% callout warning %}}
 Contactez nous avant de venir pour la première fois pour prendre rdv.
